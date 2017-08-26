@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://github.com/gurindersingh/mdi-search/blob/master/static/assets/screenshot.png"/>
+  <img src="https://raw.githubusercontent.com/gurindersingh/mdi-search-icons/master/static/assets/screenshot.png" style="width: 100%"/>
 </p> 
 
 # Material Design Icons Search (v2.0.46) - Built in Vuejs
