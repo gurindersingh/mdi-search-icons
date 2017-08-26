@@ -1,8 +1,8 @@
+# Material Design Icons Search (v2.0.46) - Built in Vuejs
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/gurindersingh/mdi-search-icons/master/static/assets/screenshot.png" style="width: 100%"/>
-</p> 
-
-# Material Design Icons Search (v2.0.46) - Built in Vuejs
+</p>
 
 ## Requirements
 - [Vue.js](https://github.com/vuejs/vue) `^2.4.*`
